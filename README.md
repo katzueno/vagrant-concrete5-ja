@@ -22,7 +22,7 @@
 8. Vagrant 環境を起動.
  * `vagrant up`
 9. アクセス先は [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
-10. ログイン後[管理画面 (Dashboard)]-[システムと設定(Systsme & Setting)]-[言語(Language)]メニューおり、日本語を設定してください。
+10. ログイン後[管理画面 (Dashboard)]-[システムと設定(Systsme & Setting)]-[言語(Language)]メニューより、日本語を設定すると日本語化されます。
 
 ## 設定
 
