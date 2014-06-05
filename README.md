@@ -14,7 +14,7 @@
  * `vagrant plugin install vagrant-omnibus`
  * `vagrant plugin install vagrant-berkshelf`
 5. このレポジトリをローカルにクローン
- * `git clone https://github.com/miya0001/vagrant-concrete5.git`
+ * `git clone https://github.com/katzueno/vagrant-concrete5-ja.git`
 6. ディレクトリーに移動
  * `cd vagrant-concrete5`
 7. cookbooks をインストール
