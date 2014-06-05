@@ -1,30 +1,36 @@
-# Vagrant + Concrete5
+# Vagrant + Concrete5 (Japanese / 日本語)
 
-## Getting Started
+宮下さんが作成した vagrantfile に修正を加えて concrete5 日本語パッケージをインストールできるようにしたものです。
 
-1. Install VirtualBox.
- * https://www.virtualbox.org/
-2. Install Vagrant.
- * http://www.vagrantup.com/
-3. Chef Development Kit
- * http://www.getchef.com/downloads/chef-dk/mac/
-4. Install the vagrant plugins.
+## 使い方
+
+1. VirtualBoxをインストール
+ * [https://www.virtualbox.org/](https://www.virtualbox.org/)
+2. Vagrantをインストール
+ * [http://www.vagrantup.com/](http://www.vagrantup.com/)
+3. Chef Development Kit をインストール
+ * [http://www.getchef.com/downloads/chef-dk/mac/](http://www.getchef.com/downloads/chef-dk/mac/)
+4. 下記コマンドをいれて vagrant pluginsをコマンドラインからインストール
  * `vagrant plugin install vagrant-omnibus`
-5. Clone the repository into a local directory.
+ * `vagrant plugin install vagrant-berkshelf`
+5. このレポジトリをローカルにクローン
  * `git clone https://github.com/miya0001/vagrant-concrete5.git`
-6. Change into a new directory.
+6. ディレクトリーに移動
  * `cd vagrant-concrete5`
-7. Install cookbooks.
+7. cookbooks をインストール
  * `berks vendor cookbooks`
-8. Start a Vagrant environment.
+8. Vagrant 環境を起動.
  * `vagrant up`
-9. Visit http://127.0.0.1:8080/
+9. アクセス先は [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+10. ログイン後[管理画面 (Dashboard)]-[システムと設定(Systsme & Setting)]-[言語(Language)]メニューおり、日本語を設定してください。
 
-## Configuration
+## 設定
 
-See attributes.
-https://github.com/Launch-with-1-Click/concrete5
+各属性の説明は下記を参照
 
-## Contributors
+[https://github.com/Launch-with-1-Click/concrete5](https://github.com/Launch-with-1-Click/concrete5)
 
-* [@miya0001](https://github.com/miya0001/)
+## 作成者
+
+* [@miya0001](https://github.com/miya0001/) * 作者
+* [@katzueno](https://github.com/katzueno/) * 日本語版作成

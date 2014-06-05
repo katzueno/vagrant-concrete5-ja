@@ -30,8 +30,8 @@ Vagrant.configure("2") do |config|
         },
         # See https://github.com/Launch-with-1-Click/concrete5
         :concrete5 => {
-            :git_repository => 'https://github.com/concrete5/concrete5.git',
-            :git_revision   => '5.6.3',
+            :git_repository => 'https://github.com/concrete5japan/concrete5.git',
+            :git_revision   => '5.6.3.1.ja',
             :cli_url        => 'https://raw2.github.com/concrete5/concrete5/master/cli/install-concrete5.php',
             :site           => 'Welcome to the Concrete5',
             :admin => {
