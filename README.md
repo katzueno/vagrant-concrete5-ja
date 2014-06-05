@@ -1,6 +1,6 @@
 # Vagrant + Concrete5 (Japanese / 日本語)
 
-宮下さんが作成した vagrantfile に修正を加えて concrete5 日本語パッケージをインストールできるようにしたものです。
+宮内さんが作成した vagrantfile に修正を加えて concrete5 日本語パッケージをインストールできるようにしたものです。
 
 ## 使い方
 
