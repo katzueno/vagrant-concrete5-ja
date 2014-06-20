@@ -12,7 +12,6 @@
  * [http://www.getchef.com/downloads/chef-dk/mac/](http://www.getchef.com/downloads/chef-dk/mac/)
 4. 下記コマンドをいれて vagrant pluginsをコマンドラインからインストール
  * `vagrant plugin install vagrant-omnibus`
- * `vagrant plugin install vagrant-berkshelf`
 5. このレポジトリをローカルにクローン
  * `git clone https://github.com/katzueno/vagrant-concrete5-ja.git`
 6. ディレクトリーに移動
@@ -29,6 +28,14 @@
 各属性の説明は下記を参照
 
 [https://github.com/Launch-with-1-Click/concrete5](https://github.com/Launch-with-1-Click/concrete5)
+
+デフォルトユーザーは
+
+- ID:admin
+- Pass: concrete5
+- Email: admin@example.com
+
+です。`Vagrantfile` をテキストエディタで開いて変更可能です。
 
 ## 作成者
 
