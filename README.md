@@ -15,7 +15,7 @@
 5. このレポジトリをローカルにクローン
  * `git clone https://github.com/katzueno/vagrant-concrete5-ja.git`
 6. ディレクトリーに移動
- * `cd vagrant-concrete5`
+ * `cd vagrant-concrete5-ja`
 7. cookbooks をインストール
  * `berks vendor cookbooks`
 8. Vagrant 環境を起動.
