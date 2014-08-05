@@ -11,7 +11,7 @@
 3. Chef Development Kit をインストール
  * [http://www.getchef.com/downloads/chef-dk/mac/](http://www.getchef.com/downloads/chef-dk/mac/)
 4. 下記コマンドをいれて vagrant pluginsをコマンドラインからインストール
- * `vagrant plugin install vagrant-omnibus`
+ * `vagrant plugin install vagrant-omnibus vagrant-hostsupdater`
 5. このレポジトリをローカルにクローン
  * `git clone https://github.com/katzueno/vagrant-concrete5-ja.git`
 6. ディレクトリーに移動
