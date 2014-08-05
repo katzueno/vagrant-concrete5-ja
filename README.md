@@ -20,10 +20,8 @@
  * `berks vendor cookbooks`
 8. Vagrant 環境を起動.
  * `vagrant up`
-9. `http://concrete5.local` でアクセスできるようお使いの PC/Mac の Hosts ファイルを変更します。その際にお使いの PC/Mac の管理権限パスワードを要求されます。
-10. アクセス先は [http://concrete5.local/](http://concrete5.local/)
-11. ログイン後[管理画面 (Dashboard)]-[システムと設定(System & Setting)]-[言語(Language)]メニューより、日本語を設定すると日本語化されます。
-12. `vagrant halt`や `vagrant destroy`の際に変更した Hosts ファイルの設定部分を削除します。その際にお使いの PC/Mac の管理権限パスワードを要求されます。
+9. アクセス先は [http://192.168.33.35/](http://192.168.33.35/)
+10. ログイン後[管理画面 (Dashboard)]-[システムと設定(System & Setting)]-[言語(Language)]メニューより、日本語を設定すると日本語化されます。
 
 ## 設定
 
