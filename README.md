@@ -1,4 +1,4 @@
-# Vagrant + Concrete5 (Japanese / 日本語)
+# Vagrant + concrete5 (Japanese / 日本語)
 
 宮内さんが作成した vagrantfile に修正を加えて concrete5 日本語パッケージをインストールできるようにしたものです。
 
@@ -42,3 +42,5 @@
 * [@miya0001](https://github.com/miya0001/) * 作者
 * [@katzueno](https://github.com/katzueno/) * 日本語版作成
 * [@ixkaito](https://github.com/ixkaito/)
+* [@mahm](https://github.com/mahm/)
+
