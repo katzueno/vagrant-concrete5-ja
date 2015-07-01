@@ -9,7 +9,7 @@
 2. Vagrantをインストール
  * [http://www.vagrantup.com/](http://www.vagrantup.com/)
 3. Chef Development Kit をインストール
- * [http://www.getchef.com/downloads/chef-dk/mac/](http://www.getchef.com/downloads/chef-dk/mac/)
+ * [https://downloads.chef.io/chef-dk/mac/](https://downloads.chef.io/chef-dk/mac/)
 4. 下記コマンドをいれて vagrant pluginsをコマンドラインからインストール
  * `vagrant plugin install vagrant-omnibus`
 5. このレポジトリをローカルにクローン
@@ -43,4 +43,3 @@
 * [@katzueno](https://github.com/katzueno/) * 日本語版作成
 * [@ixkaito](https://github.com/ixkaito/)
 * [@mahm](https://github.com/mahm/)
-
