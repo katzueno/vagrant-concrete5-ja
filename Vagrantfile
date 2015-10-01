@@ -15,9 +15,9 @@ C5_IP               = "192.168.33.35" # host ip address
 C5_LOCALE           = "en_US"
 
 C5_GIT_REPOSITORY   = "https://github.com/concrete5/concrete5.git"
-C5_GIT_REVISION     = "5.7.4.2"
+C5_GIT_REVISION     = "5.7.5.2"
 # C5_GIT_REPOSITORY   = "https://github.com/concrete5/concrete5-legacy.git"
-# C5_GIT_REVISION     = "5.6.3.3"
+# C5_GIT_REVISION     = "5.6.3.4"
 
 
 C5_TITLE            = "Welcome to the concrete5" # site title
